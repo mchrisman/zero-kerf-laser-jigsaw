@@ -14,7 +14,7 @@ Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](http
 
 ## Supplemental
 
--  **Discussion of accuracy** (How accurate you need to be; how accurate you _can_ be)
+-  **Discussion of accuracy** (How accurate do you need to be? How accurate **can** you be?)
 
 ## Q & A
 
