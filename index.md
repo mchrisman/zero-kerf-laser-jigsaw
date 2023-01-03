@@ -1,6 +1,6 @@
 # A technique for accurate laser cutting on upside-down digital prints (especially for making kerf-adjusted jigsaw puzzles)
 
-This method uses a Measurement and Alignment (MAP) sled, to get "naked-eye perfect" cut alignment.  
+This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.  
 
 ## 90-second video overview
 
