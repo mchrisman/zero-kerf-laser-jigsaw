@@ -1,4 +1,4 @@
-# A Technique for Accurate Laser Cutting on Upside-Down Digital Prints, Especially for Creating Zero-Kerf Jigsaw Puzzles
+# A technique for accurate laser cutting on upside-down digital prints, especially for making kerf-adjusted jigsaw puzzles
 
 This method uses a Measurement and Alignment (MAP) sled, to get "naked-eye perfect" cut alignment.  
 
