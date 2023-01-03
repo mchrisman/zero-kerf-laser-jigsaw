@@ -7,14 +7,14 @@ This method uses a Measurement and Alignment (MAP) sled, to get "naked-eye perfe
 Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M)
 
 ## Tutorial
-1. [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through example)
-2. **Single-page puzzles** (How to create the vector files)
-3. **Masking and weeding** (Discussion; weeding trick)
-4. **Multiple-page puzzles** (How to create the vector files; how to mitigate relative error)
+- Part 1: [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through with prepared example files)
+- Part 2: **Single-page puzzles** (How to create the your own vector files)
+- Part 3: **Masking and weeding** (Discussion; weeding trick)
+- Part 4: **Multiple-page puzzles** (How to create your own vector files; how to mitigate relative error)
 
 ## Supplemental
 
-1. **Discussion of accuracy** (How accurate you need to be; how accurate you _can_ be)
+-  **Discussion of accuracy** (How accurate you need to be; how accurate you _can_ be)
 
 ## Q & A
 
