@@ -9,6 +9,9 @@ Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](http
 <!-- {% include youtube.html id="bI3UKxNdW8M" %}-->
 
 ## Tutorial
+
+***Fair warning:**  the technique is simple, but it takes some patience and practice.  You should also anticipate that there will be some percentage of failures, damaged pieces that will need to be recut, especially if you're using an inkjet photo printer.*
+
 - Part 1: [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through with prepared example files)
 - Part 2: **Single-page puzzles** (How to create your own vector files)
 - Part 3: **Masking and weeding** (Discussion; weeding trick)
