@@ -29,7 +29,7 @@ Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](http
 
 #### What is "kerf" and "kerf-adjusted"?
 
-"Kerf" is the gap made by the path of the laser cutter.  Like a saw, it destroys a path of material.  This leaves a gap between puzzle pieces so that they don't fit snugly — they wiggle a little loosely.  "Kerf adjustment" refers to slightly expanding the outline of the puzzle pieces to eliminate the gap, so that the pieces fit more tightly (and the picture looks better with less of it destroyed).  The only way to do this is by cutting the pieces individually.
+"Kerf" refers to the gap or space created when a laser cutter cuts through material. "Kerf adjustment" refers to slightly expanding the outline of puzzle pieces to make them fit more closely together and eliminate the gap created by the laser cutter. This can only be done by cutting the pieces individually.
 
 #### Why cut upside-down?
 Because in laser cutting, the kerf is always wider on top, narrower on the bottom.  For jigsaw puzzles, if you want the kerf reduced or eliminated on the front face, you need to cut it upside-down.
