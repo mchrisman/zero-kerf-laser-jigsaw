@@ -6,7 +6,7 @@ This method uses a Measurement and Alignment (MAP) sled, to get "naked-eye perfe
 
 Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M)
 
-{% include youtube.html id="bI3UKxNdW8M" %}
+<!-- {% include youtube.html id="bI3UKxNdW8M" %}-->
 
 ## Tutorial
 - Part 1: [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through with prepared example files)
