@@ -4,7 +4,7 @@ This method uses a Measurement and Alignment (MAP) sled, to get "naked-eye perfe
 
 ## 90-second video overview
 
-Start with this quick video:  https://www.youtube.com/watch?v=bI3UKxNdW8M
+Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M)
 
 ## Tutorial
 1. [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through example)
