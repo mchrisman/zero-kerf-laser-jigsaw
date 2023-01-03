@@ -8,7 +8,7 @@ Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](http
 
 ## Tutorial
 - Part 1: [Using the Alignment Sled](using-the-alignment-sled.md) (Detailed walk-through with prepared example files)
-- Part 2: **Single-page puzzles** (How to create the your own vector files)
+- Part 2: **Single-page puzzles** (How to create your own vector files)
 - Part 3: **Masking and weeding** (Discussion; weeding trick)
 - Part 4: **Multiple-page puzzles** (How to create your own vector files; how to mitigate relative error)
 
@@ -27,7 +27,7 @@ Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](http
 
 #### What is "kerf" and "kerf-adjusted"?
 
-"Kerf" is the gap made by the path of the laser cutter.  Like a saw, it destroys a path of material.  This leaves a gap between puzzle pieces so that they don't fit snugly — they wiggle a little loosely.  "Kerf adjustment" refers to slightly expanding the outline of the puzzle pieces to eliminate the gap, so that the pieces fit more tightly (and the picture looks better with less of it destroyed). 
+"Kerf" is the gap made by the path of the laser cutter.  Like a saw, it destroys a path of material.  This leaves a gap between puzzle pieces so that they don't fit snugly — they wiggle a little loosely.  "Kerf adjustment" refers to slightly expanding the outline of the puzzle pieces to eliminate the gap, so that the pieces fit more tightly (and the picture looks better with less of it destroyed).  The only way to do this is by cutting the pieces individually.
 
 #### Why cut upside-down?
 Because in laser cutting, the kerf is always wider on top, narrower on the bottom.  For jigsaw puzzles, if you want the kerf reduced or eliminated on the front face, you need to cut it upside-down.
