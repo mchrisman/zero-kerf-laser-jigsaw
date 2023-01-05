@@ -164,9 +164,10 @@ _(Note, this is the step in which the photo's dimensions are directly mapped to 
 
 Flip over the taped-together photo/sled assembly top-to-bottom, so that the reference corner is in the top left, and the photo is resting face-down on top of the sled.
 
-Do not rush this step: Place the assembly back on the crumb tray against the Three-Point jig, with the sled in the exact same spot as before. The sled should be resting directly against the Three-Point jig. (If you can't do this because the photo is overhanging the sled, then you forgot to trim the photo. Start over at that step.)
+Do not rush this step: Place the assembly back on the crumb tray against the Three-Point jig, with the sled in the exact same spot as before. The sled should be resting directly against the Three-Point jig. (If you can't do this because the photo/board is overhanging the sled, then you forgot to trim the photo/board. Start over at that step.)
 
 Carefully pin it down without moving it.
+
 <img width="380" alt="place-assembly-in-cutter" src="https://user-images.githubusercontent.com/25491795/210688853-15ee9987-05bf-47af-a8ca-ddc07e6220de.png">
 
 ### Step 18: Load the cutting file (tutorial-cut.svg) into your vector editor.
@@ -178,19 +179,19 @@ Make sure your editor is set to use units of millimeters, not pixels.
 In the editor, "Select all" (rectangular boundary and pieces) and:
 
 1. Flip the whole thing upside-down (Important: we're cutting upside down! After flipping, the reference corner is at the upper left).
-2. Resize it to the corrected dimensions you measured using the error gauges. (Important: unlock the aspect ratio when doing this!)
+2. Resize it (width and height) to the corrected dimensions you measured using the error gauges. (**Important**: unlock the aspect ratio when doing this!)
 3. Move it to position the top-left corner at (10mm, 10mm).
 
 ### Step 20:  Apply your kerf adjustment 
 
 Apply the kerf adjustment to the pieces—but not the rectangular border!—including the four "canary pieces" in the corners.
 
-- #### In Affinity Designer, it's the "Contour" tool
- - ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
-- #### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
- - I'm not familiar with Inkscape, sorry
-- #### In the Glowforge interface it's the "Create Outline" tool
- - I can't get this to work correctly.
+#### In Affinity Designer, it's the "Contour" tool
+ ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
+#### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
+I'm not familiar with Inkscape, sorry
+#### In the Glowforge interface it's the "Create Outline" tool
+I can't get this to work correctly.
 
 ### Step 21:  Load the design into Glowforge.
 
