@@ -7,7 +7,15 @@ a[href="https://mchrisman.github.io/zero-kerf-laser-jigsaw/"] {
   display: none;
 }
 
+p.info {
+  background-color:#e0ffe0; 
+  padding:1em;
+}
 p.warning {
   background-color:#ffffcc; 
+  padding:1em;
+}
+p.error {
+  background-color:#ffe0e0; 
   padding:1em;
 }
