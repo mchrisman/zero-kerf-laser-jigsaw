@@ -18,7 +18,7 @@ Let's use these already-prepared files.  (Part 2 will discuss how to create the 
 * Photo mounting board
 * Photo mounting adhesive
 * Painter's tape
-* Transfer tape
+* Low-tack transfer tape
 * Heavy (200gsm) letter-sized card stock
 * Ruler with 1mm increments
 * Paper slicer or Exacto knife
@@ -222,6 +222,7 @@ Note that pieces cut from a separate sheet often won't be *perfectly* aligned, b
 
 * **Recommended**: Photo mounting board: this [1/16" plywood for mounting](https://www.amazon.com/gp/product/B08KPKCYDZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) cuts cleanly with little char
 * Photo paper: I prefer matte paper, as it gives a more elegant appearance, and de-masks more easily than glossy.  I'm using Canon double-sided matte paper, but I don't know its longevity.
+* Transfer tape: I'm currently using [this](https://www.specialty-graphics.com/rtape-aplitape-4000-low-tack-tape-50-yd-roll/), but it still needs to be significantly weakened to use with inkjet photo paper.
 * Photo mounting adhesive: there are options with pros and cons.
   * [3M 568 pressure-sensitive mounting adhesive](https://www.amazon.com/gp/product/B000JGQM1Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Cheaper than individual sheets, but a little difficult to use. This is the only option that claims to be "Photo Safe".
   * [These pressure-sensitive sheets](https://www.binding101.com/mounting-adhesive-sheets?sku=80PSMAS81211) are my favorite, but the website doesn't warn you if they're 4 weeks backordered!
