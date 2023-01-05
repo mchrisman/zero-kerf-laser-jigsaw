@@ -166,7 +166,7 @@ Carefully pin it down without moving it.
 
 ### Step 17: Load the cutting file (tutorial-cut.svg) into your vector editor.
 
-(You can alternatively do the following edits in the Glowforge editor, but I prefer the vector editor.)
+Make sure your editor is set to use units of millimeters, not pixels.
 
 ### Step 18: Adjust the cutting file dimensions
 
@@ -183,11 +183,13 @@ Apply the kerf adjustment to the pieces—but not the rectangular border!—incl
 - #### In Affinity Designer, it's the "Contour" tool
  - ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
 - #### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
+ - I'm not familiar with Inkscape, sorry
 - #### In the Glowforge interface it's the "Create Outline" tool
+ - I can't get this to work correctly.
 
 ### Step 20:  Load the design into Glowforge.
 
-Verify the position and dimensions.
+Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. Verify the position and dimensions.
 
 ![verifying-cut-in-interface](https://user-images.githubusercontent.com/25491795/210688934-7f7d545d-c3ee-4857-955d-2ddc7affe377.jpg)
 
