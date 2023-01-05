@@ -191,11 +191,13 @@ Apply the kerf adjustment to the pieces—but not the rectangular border!—incl
 #### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
 I'm not familiar with Inkscape, sorry
 #### In the Glowforge interface it's the "Create Outline" tool
-I can't get this to work correctly.
+I can't get this to work correctly. 
 
 ### Step 21:  Load the design into Glowforge.
 
-Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. Verify the position and dimensions.
+Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. 
+
+"Select all" and verify the position and dimensions.
 
 ![verifying-cut-in-interface](https://user-images.githubusercontent.com/25491795/210688934-7f7d545d-c3ee-4857-955d-2ddc7affe377.jpg)
 
