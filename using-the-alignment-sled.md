@@ -18,7 +18,7 @@ Let's use these already-prepared files.  (Part 2 will discuss how to create the 
 * Photo mounting board
 * Photo mounting adhesive
 * Painter's tape
-* Transfer tape
+* Low-tack transfer tape
 * Heavy (200gsm) letter-sized card stock
 * Ruler with 1mm increments
 * Paper slicer or Exacto knife
@@ -32,6 +32,8 @@ Secure the crumb tray as described [here](https://community.glowforge.com/t/give
 Solidly attach a Three-Point positioning jig (or equivalent) to the crumb tray. For example, I use [this one](https://community.glowforge.com/t/three-point-right-angle-positioning-jig/116003). We want a Three-Point jig, not a right angle jig, because the sheets of card stock won't always be perfectly square.
 
 Position the Three-Point jig with its inside edges slightly outside (less than 5mm) the Glowforge cutting area. (This makes it possible to position the sled appropriately.)
+
+![inside edges slightly outside (less than 5mm) the Glowforge cutting area](https://user-images.githubusercontent.com/25491795/210688015-519efa9d-a8bf-41c3-a1ee-a3fd7d0d39f9.png)
 
 ### Step 3: Decide whether to print your photo at home or to use a print service. 
 
@@ -62,6 +64,8 @@ Mark the bottom-left corner of the page (oriented in landscape position) as the 
 ### Step 6 Trim if necessary
 
 Trim, if necessary, the *bottom and left* edges of the page (adjacent to the reference corner) so that there is less than 10mm between the black border and the edge of the page. (This is to avoid the photo print overhanging the sled.)  Don't lose the border. Example of trimmed print:
+[
+![trim](https://user-images.githubusercontent.com/25491795/210688247-f00a71af-b566-4b7e-8c37-0b5869eb1a27.jpg)
 
 ### Step 7: Mount the print
 
@@ -95,9 +99,13 @@ If you are using an inkjet printer, it will be a little challenging.  The maskin
 
 Use a [paper slicer](https://www.amazon.com/dp/B002OOVC84?ref=nb_sb_ss_w_as-reorder-t1_ypp_rep_k2_1_12&amp=&crid=2JCP8I7RSQRN7&sprefix=paper%2Bslicer&th=1) or exacto knife to trim the transfer paper so that the edge of the black border is left exposed. It should look like this:
 
+![trimmed-mask](https://user-images.githubusercontent.com/25491795/210688378-0fe3b369-43ba-4c50-aea3-6799288e7f5b.jpeg)
+
 ### Step 11: Make an initial estimated measurement
 
 Make an initial ("estimated") measurement with a ruler, to the outside edges of the black border, to the nearest millimeter.
+
+![measurement-with-ruler](https://user-images.githubusercontent.com/25491795/210688432-ca255b57-335c-4aff-a812-575516a387a7.jpg)
 
 ### Step 12:  Alter the MAP sled template to match your estimated measurement.
 
@@ -106,6 +114,8 @@ Open the MAP-sled.svg design in the Glowforge interface. The diamond in the top-
 Select the precision error gauge on the right-hand side. Move it **horizontally** so that it is **centered** at `x = (Estimated Width + 10mm)`.
 
 Select the precision error gauge on the bottom. Move it **vertically** so that it is **centered** at `y = (Estimated Height + 10mm)`.
+
+![sled-template-in-interface](https://user-images.githubusercontent.com/25491795/210688706-7771c9e2-f385-4e42-a20e-2f321bd050e3.jpg)
 
 ### Step 12:  Fix the cardstock in the jig
 
@@ -116,6 +126,8 @@ Make sure the edge of the card stock is stopped against the three-point jig — 
 slipping under, try slightly bending up the edge of the paper.
 
 Carefully, without moving it, tape down the corners with painter's tape.
+
+<img width="432" alt="cutting sled" src="https://user-images.githubusercontent.com/25491795/210688594-18067b27-e461-4c8a-8753-d5f826872796.png">
 
 ### Step 13: Cut the MAP sled. 
 
@@ -129,13 +141,19 @@ Remove the cut sled from the Glowforge, and flip the sled upside-down, so that i
 
 Align the guide holes along the left and bottom edges of the sled to the left and bottom outside edges of the photo's black border.
 
+![align the guide holes 2](https://user-images.githubusercontent.com/25491795/210688752-84ebd242-40f5-4558-90ef-e6a8e93338ae.jpg)
+
 As best you can, get the edge of the border going right through the exact center of the guide holes. Then use painter's tape to tape the sled to the photo print, using the two round holes in the center area. After taping, double-check the alignment.
+
+<img width="360" alt="aligned-magnified" src="https://user-images.githubusercontent.com/25491795/210688767-62b64c0a-6ce8-4538-b07c-1e8174a2bb93.png">
 
 ### Step 15: Make your precise measurement
 
 Adjust your initial measurement using the error gauges in the sled. The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge measuring circles are arranged in increments of 0.1mm.
 
 (Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)
+
+![reading-error-gauges](https://user-images.githubusercontent.com/25491795/210688825-8453f7a4-9d8d-42f1-8e0e-365112f08608.jpg)
 
 ### Step 16:  Flip and place the photo for cutting.
 
@@ -144,10 +162,11 @@ Flip over the taped-together photo/sled assembly top-to-bottom, so that the refe
 Do not rush this step: Place the assembly back on the crumb tray against the Three-Point jig, with the sled in the exact same spot as before. The sled should be resting directly against the Three-Point jig. (If you can't do this because the photo is overhanging the sled, then you forgot to trim the photo. Start over at that step.)
 
 Carefully pin it down without moving it.
+<img width="380" alt="place-assembly-in-cutter" src="https://user-images.githubusercontent.com/25491795/210688853-15ee9987-05bf-47af-a8ca-ddc07e6220de.png">
 
 ### Step 17: Load the cutting file (tutorial-cut.svg) into your vector editor.
 
-(You can alternatively do the following edits in the Glowforge editor, but I prefer the vector editor.)
+Make sure your editor is set to use units of millimeters, not pixels.
 
 ### Step 18: Adjust the cutting file dimensions
 
@@ -162,18 +181,23 @@ In the editor, "Select all" (rectangular boundary and pieces) and:
 Apply the kerf adjustment to the pieces—but not the rectangular border!—including the four "canary pieces" in the corners.
 
 - #### In Affinity Designer, it's the "Contour" tool
-
+ - ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
 - #### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
-
+ - I'm not familiar with Inkscape, sorry
 - #### In the Glowforge interface it's the "Create Outline" tool
+ - I can't get this to work correctly.
 
 ### Step 20:  Load the design into Glowforge.
 
-Verify the position and dimensions.
+Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. Verify the position and dimensions.
+
+![verifying-cut-in-interface](https://user-images.githubusercontent.com/25491795/210688934-7f7d545d-c3ee-4857-955d-2ddc7affe377.jpg)
 
 ### Step 21 (optional but recommended):  Cut two canary pieces
 
 Go ahead and cut two opposite "canary" pieces to check the alignment. Holding the sheet down in the GF so that it doesn't move, carefully pry out the canary pieces with a knife. You should get an accurately-cut red or green piece.
+
+![canaries](https://user-images.githubusercontent.com/25491795/210688979-f3319a41-9619-4802-a875-96d20410e088.jpg)
 
 ### Step 22 Cut the pieces! 
 
@@ -200,6 +224,7 @@ Note that pieces cut from a separate sheet often won't be *perfectly* aligned, b
 
 * **Recommended**: Photo mounting board: this [1/16" plywood for mounting](https://www.amazon.com/gp/product/B08KPKCYDZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) cuts cleanly with little char
 * Photo paper: I prefer matte paper, as it gives a more elegant appearance, and de-masks more easily than glossy.  I'm using Canon double-sided matte paper, but I don't know its longevity.
+* Transfer tape: I'm currently using [this](https://www.specialty-graphics.com/rtape-aplitape-4000-low-tack-tape-50-yd-roll/), but it still needs to be significantly weakened to use with inkjet photo paper.
 * Photo mounting adhesive: there are options with pros and cons.
   * [3M 568 pressure-sensitive mounting adhesive](https://www.amazon.com/gp/product/B000JGQM1Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Cheaper than individual sheets, but a little difficult to use. This is the only option that claims to be "Photo Safe".
   * [These pressure-sensitive sheets](https://www.binding101.com/mounting-adhesive-sheets?sku=80PSMAS81211) are my favorite, but the website doesn't warn you if they're 4 weeks backordered!

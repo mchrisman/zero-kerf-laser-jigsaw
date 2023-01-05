@@ -8,7 +8,7 @@ This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-e
 
 ## 90-second video overview
 
-Start with this quick video:  [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M)
+Start with this quick video: <!-- [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M) -->
 
 {% include youtube.html id="bI3UKxNdW8M" %}
 
