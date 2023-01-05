@@ -3,8 +3,12 @@
 
 This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.
 
+<p class="warning" style="background-color:#ffffcc; padding:1em">Any comments or questions may be posted [in the Glowforge forum](https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437).</p>
+
+
 <p class="warning" style="background-color:#ffffcc; padding:1em">
 <b>Fair warning:</b> I'm happy with the alignment technique.  But masking/de-masking inkjet photo paper is tricky; in spite of having practice, I usually have a few damaged pieces that need to be recut. Patience is required.</p>
+
 
 ## 90-second video overview
 
