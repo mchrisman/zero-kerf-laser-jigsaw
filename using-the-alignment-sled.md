@@ -150,11 +150,11 @@ As best you can, get the edge of the border going right through the exact center
 
 <img width="360" alt="aligned-magnified" src="https://user-images.githubusercontent.com/25491795/210688767-62b64c0a-6ce8-4538-b07c-1e8174a2bb93.png">
 
-### Step 16: Make your precise measurement
+### Step 16: Fine-tune your initial measurement
 
-Adjust your initial measurement using the error gauges in the sled. The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge measuring circles are arranged in increments of 0.1mm.
+The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge's small measuring circles are arranged in increments of 0.1mm.
 
-(Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)
+_(Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)_
 
 ![reading-error-gauges](https://user-images.githubusercontent.com/25491795/210688825-8453f7a4-9d8d-42f1-8e0e-365112f08608.jpg)
 
