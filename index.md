@@ -3,7 +3,7 @@
 
 This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.
 
-<p class="warning" style="background-color:#ffffcc; padding:1em">Any comments or questions may be posted [in the Glowforge forum](https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437).</p>
+<p class="warning" style="background-color:#ffffcc; padding:1em">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
 
 
 <p class="warning" style="background-color:#ffffcc; padding:1em">
