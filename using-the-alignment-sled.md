@@ -15,7 +15,7 @@ Let's use [these already-prepared files (click to download)](tutorial-files.zip)
 ### Materials needed:
 
 _(See Q&A at the bottom for product recommendations.)_
-* Photo printer (or use a printing service)
+* Photo printer & matte photo paper (or use a printing service)
 * Photo mounting board
 * Photo mounting adhesive
 * Painter's tape
