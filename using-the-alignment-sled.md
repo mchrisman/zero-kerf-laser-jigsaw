@@ -5,7 +5,7 @@
 
 ## Detailed walk-through with prepared example files
 
-Let's use these already-prepared files.  (Part 2 will discuss how to create the files.)  The attached .zip file contains:
+Let's use these already-prepared files.  (Part 2 will discuss how to create the files.)  [Click to download the .zip file](tutorial-files.zip) which contains:
 
 * **tuturial-print.pdf** — the file for printing.  The piece outlines have been expanded to allow for a little bit of error.
 * **tutorial-print.jpg** — the same, in JPEG format.
