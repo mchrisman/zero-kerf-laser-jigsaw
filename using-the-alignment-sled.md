@@ -65,20 +65,20 @@ Mark the bottom-left corner of the page (oriented in landscape position) as the 
 ### Step 6 Trim if necessary
 
 Trim, if necessary, the *bottom and left* edges of the page (adjacent to the reference corner) so that there is less than 10mm between the black border and the edge of the page. (This is to avoid the photo print overhanging the sled.)  Don't lose the border. Example of trimmed print:
-[
+
 ![trim](https://user-images.githubusercontent.com/25491795/210688247-f00a71af-b566-4b7e-8c37-0b5869eb1a27.jpg)
 
 ### Step 7: Mount the print
 
-Mount it using your choice of backing board and adhesive. Make sure the board doesn't overhang the photo paper at the reference corner.
+Mount it using your choice of backing board and adhesive. Make sure the board doesn't extend beyond the edge of the photo paper at the reference corner.
 
 ### Step 8: Determine cutting parameters and kerf adjustment
 
 Using a separate scrap piece of identical photo paper and backing board, choose your cutting speed/power and run some [test cuts to decide how much kerf adjustment you want](https://community.glowforge.com/t/template-to-not-measure-the-kerf-test-directly-for-tightness-instead/116000). I've been using this strategy:
 
-* Choose a slower speed, like 170. (For better accuracy.)
-* Then choose the lowest power that cleanly cuts out all the pieces most of the time.
-* Then make the test cuts, and choose a kerf adjustment that's about halfway between "the pieces just fall apart" and "the pieces are difficult to pull apart".
+1. Choose a slower speed, like 170. (For better accuracy.)
+2. Then choose the lowest power that cleanly cuts out all the pieces most of the time. (This is to reduce char, and also because weeding is easier if you don't cut all the way through the masking paper.)
+3. Then make the test cuts, and choose a kerf adjustment that's about halfway between "the pieces just fall apart" and "the pieces are difficult to pull apart".
 
 ### Step 9: Mask the print
 
