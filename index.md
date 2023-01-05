@@ -27,14 +27,14 @@ Start with this quick video: <!-- [https://www.youtube.com/watch?v=bI3UKxNdW8M](
 ## Q & A
 
 #### Is "naked-eye perfect" alignment even possible?
-The short answer: Just barely ... usually ... depending on the use case.  
-
-I'll share the long answer later.  The TL;DR version:
+The short answer: Just barely ... usually ... depending on the use case.
 
 * Jigsaw puzzle pieces should be relatively aligned within 0.2mm (depending on photo, resolution, piece size).
 * Small puzzles cut from a single page appear perfect, because errors in adjacent pieces tend to cancel out.
 * My own Glowforge is only accurate to 0.1mm (after compensating for scale and drift)
-* My own error using this technique is usually less than 0.2mm.
+* I can usually place cuts with error under 0.2mm.
+
+I'll share the long answer later.
 
 #### Why cut upside-down?
 Because in laser cutting, the kerf is always wider on top, narrower on the bottom.  For jigsaw puzzles, if you want the kerf reduced or eliminated on the front face, you need to cut it upside-down.
