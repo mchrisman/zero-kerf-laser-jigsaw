@@ -5,10 +5,10 @@ This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-e
 
 <p class="error"><b>This is not a beginner-level technique.</b> If you've never made a laser-cut jigsaw puzzle before, start with one of the many simple tutorials easily found on YouTube.</p>
 
-<p class="info">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
+<p class="error">
+<b>Fair warning for experienced puzzle makers:</b> this is a laborious way to make a puzzle. (Also expensive, for larger puzzles).  Continue only if you have a serious peeve against loosely-fitting puzzles, or you have some other specific use for the technique.</p>
 
-<p class="warning">
-<b>Fair warning:</b> I'm happy with the alignment technique.  But masking/de-masking inkjet photo paper is tricky; in spite of having practice, I usually have a few damaged pieces that need to be recut. Patience is required.</p>
+<p class="info">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
 
 
 ## 90-second video overview
