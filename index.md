@@ -3,7 +3,7 @@
 
 This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.
 
-<p class="error"><b>This is not a beginner-level technique.</bv> If you've never made a laser-cut jigsaw puzzle before, start with one of the many simple tutorials easily found on YouTube.</p>
+<p class="error"><b>This is not a beginner-level technique.</b> If you've never made a laser-cut jigsaw puzzle before, start with one of the many simple tutorials easily found on YouTube.</p>
 
 <p class="info">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
 
