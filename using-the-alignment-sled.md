@@ -118,7 +118,7 @@ Select the precision error gauge on the bottom. Move it **vertically** so that i
 
 ![sled-template-in-interface](https://user-images.githubusercontent.com/25491795/210688706-7771c9e2-f385-4e42-a20e-2f321bd050e3.jpg)
 
-<p class="warning"><i>Glowforge interprets the SVG file assuming 96dpi.  <b>If you're not using a Glowforge</b>, you may need to adjust the scale.  The diamond in the corner should be centered at coordinates (10mm,10mm).  The height of the error gauge at the bottom (see picture below) should be 6mm.</i></p>
+<p class="warning"><i>Glowforge interprets the SVG file assuming 96dpi.  <b>If you're not using a Glowforge</b>, you may need to adjust the scale.  The diamond in the corner should be centered at coordinates (10mm,10mm).  The height of the error gauge at the bottom (see picture above) should be 6mm.</i></p>
 
 ### Step 13:  Fix the cardstock in the jig
 
