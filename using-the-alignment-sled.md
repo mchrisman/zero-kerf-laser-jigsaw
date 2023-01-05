@@ -14,6 +14,7 @@ Let's use these already-prepared files.  (Part 2 will discuss how to create the 
 
 ### Materials needed:
 
+_(See Q&A at the bottom for product recommendations.)_
 * Photo printer (or use a printing service)
 * Photo mounting board
 * Photo mounting adhesive
