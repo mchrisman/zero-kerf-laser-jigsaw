@@ -154,6 +154,8 @@ As best you can, get the edge of the border going right through the exact center
 
 The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge's small measuring circles are arranged in increments of 0.1mm.
 
+![error-gauge](https://user-images.githubusercontent.com/25491795/210764155-8483bd15-691f-476d-ad77-58f9293dba3d.jpg)
+
 _(Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)_
 
 ![reading-error-gauges](https://user-images.githubusercontent.com/25491795/210688825-8453f7a4-9d8d-42f1-8e0e-365112f08608.jpg)
