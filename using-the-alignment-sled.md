@@ -209,7 +209,13 @@ Go ahead and cut two opposite "canary" pieces to check the alignment. Holding th
 
 ### Step 23 Cut the pieces! 
 
-Ignore (don't cut) the rectangular border.
+Ignore (don't cut) the rectangular border.  Cut the pieces.  
+
+After the cut, you will see that a sliver of the image remains around the holes.  That's printed piece's outline is made larger than the cut piece's outline by 0.5mm to allow for slight misalignments.
+
+In this example, the cut wasn't quite perfectly centered, but it was off by only 0.1mm, which is acceptable and typical.  For single-page puzzles, the error disappears anyway, because the _relative_ error between adjacent pieces is small.
+
+![final-cu2](https://user-images.githubusercontent.com/25491795/211124471-37fc689d-4b8e-4107-9ab4-1f00a1ed6580.jpeg)
 
 ### Step 24: Discard the paper sled
 
@@ -223,7 +229,7 @@ You can find advice elsewhere on this (in short, use Gorilla tape to pull off th
 
 If there are any bad pieces (failed cut, face charring, photo torn during weeding), this method lets you cut individual replacements. Or, more simply, cut another copy of the whole puzzle to get a full inventory of replacement pieces for future copies.
 
-Note that pieces cut from a separate sheet often won't be *perfectly* aligned, but they will usually be good enough for the puzzle player not to notice.
+Note that pieces cut from a separate sheet sometimes won't be *perfectly* aligned, but they will usually be good enough for the puzzle player not to notice.
 
 ## Q & A
 
