@@ -211,7 +211,7 @@ Go ahead and cut two opposite "canary" pieces to check the alignment. Holding th
 
 Ignore (don't cut) the rectangular border.  Cut the pieces.  
 
-After the cut, you will see that a sliver of the image remains around the holes.  That's printed piece's outline is made larger than the cut piece's outline by 0.5mm to allow for slight misalignments.
+After the cut, you will see that a sliver of the image remains around the holes.  That's because the printed piece's outline is made larger than the cut piece's outline by 0.5mm, to allow for slight misalignments.
 
 In this example, the cut wasn't quite perfectly centered, but it was off by only 0.1mm, which is acceptable and typical.  For single-page puzzles, the error disappears anyway, because the _relative_ error between adjacent pieces is small.
 
