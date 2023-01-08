@@ -54,9 +54,9 @@ Considerations are:
 
 Print it on a letter-size sheet of matte photo paper.
 
-Printing to the expected scale can be challenging. Some printers may crop or automatically resize the image. It's okay if you can't print at the original scale, as we'll work with the actual dimensions rather than the expected dimensions. Just make sure the black border is visible and not cropped, and is smaller than 261x198mm (to fit within the sled's measurement area). The example file is set up to accommodate up to 4% bleed or 6mm margins.
+Printing to the expected scale can be challenging. Some printers may crop or automatically resize the image. It's okay if you can't print at the original scale, as we'll work with the actual dimensions rather than the expected dimensions. Just make sure the black border is visible and not cropped, and is smaller than 261x198mm (to fit within the sled's measurement area). The example file is set up to accommodate 6mm margins or a small amount of bleed.
 
-If you use a print service, use the .jpg file, and choose the option for no color correction.
+If you use a print service, use the .jpg file, choose the option for no color correction.  Depending on the amount of bleed, you may need to add additional margins to the .jpg file, so that in the final result, the black border is smaller than 261x198mm.
 
 ### Step 5: Label the "Reference Corner".
 
@@ -104,7 +104,7 @@ Use a [paper slicer](https://www.amazon.com/dp/B002OOVC84?ref=nb_sb_ss_w_as-reor
 
 ### Step 11: Make an initial estimated measurement
 
-Make an initial ("estimated") measurement with a ruler, to the outside edges of the black border, to the nearest millimeter.
+Make an initial ("estimated") measurement with a ruler, to the **outside edges** (not the inside edges) of the black border, to the nearest millimeter.
 
 ![measurement-with-ruler](https://user-images.githubusercontent.com/25491795/210688432-ca255b57-335c-4aff-a812-575516a387a7.jpg)
 
@@ -142,7 +142,7 @@ Set the masked photo on the table, face up, with the reference corner at the bot
 
 Remove the cut sled from the Glowforge, and flip the sled upside-down, so that its reference corner is also at the bottom left.
 
-Align the guide holes along the left and bottom edges of the sled to the left and bottom outside edges of the photo's black border.
+Align the guide holes along the left and bottom edges of the sled to the left and bottom **outside edges** (not inside edges) of the black border.
 
 ![align the guide holes 2](https://user-images.githubusercontent.com/25491795/210688752-84ebd242-40f5-4558-90ef-e6a8e93338ae.jpg)
 
@@ -152,7 +152,7 @@ As best you can, get the edge of the border going right through the exact center
 
 ### Step 16: Fine-tune your initial measurement
 
-The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge's small measuring circles are arranged in increments of 0.1mm.
+The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge's small measuring circles are arranged in increments of 0.1mm.  Remember you are measuring the **outside edges** (not inside edges) of the black border.
 
 ![error-gauge](https://user-images.githubusercontent.com/25491795/210764155-8483bd15-691f-476d-ad77-58f9293dba3d.jpg)
 
