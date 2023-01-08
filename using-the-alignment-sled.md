@@ -42,7 +42,7 @@ Considerations are:
 
 * De-masking ("weeding"): Masking is necessary for upside-down cuts. Photos from a print service are very easy to de-mask. If you use an inkjet printer at home, de-masking will be a challenge because transfer paper sticks like glue to inkjet photo paper. (You can weaken the transfer paper by repeated application to a piece of scrap photo paper, but it's a very fine line between "strong enough to do its job" and "weak enough to come off without tearing the photo", so I always end up with a few damaged pieces that need to be replaced. Fortunately, this method does allow you to cut replacement pieces!)
 
-* Appearance of edges: It's nice if the puzzle pieces edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos.
+* Appearance of edges: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos.
 
 * Appearance of photo: I prefer matte paper. On inkjet printers you can get very nice high-contrast colors on matte paper. True matte photos printed at the lab will be lower-contrast. If you prefer glossy or satin, then it's not a problem.
 
@@ -185,6 +185,8 @@ In the editor, "Select all" (rectangular boundary and pieces) and:
 ### Step 20:  Apply your kerf adjustment 
 
 Apply the kerf adjustment to the pieces—but not the rectangular border!—including the four "canary pieces" in the corners.
+
+_Tip:  use slightly less kurf adjustment (individually) on more delicate whimsy pieces, to prevent breaking during disassembly._
 
 #### In Affinity Designer, it's the "Contour" tool
  ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
