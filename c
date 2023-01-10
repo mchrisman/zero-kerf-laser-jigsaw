@@ -1,3 +1,5 @@
+[< BACK](index.md)
+
 # Part 2: Creating your own files (single-page puzzles)
 
 Here's how to create your own vector files for single-page kerf-adjusted jigsaw puzzles, such as the example used in [Part 1](using-the-alignment-sled.md).
@@ -13,7 +15,7 @@ I'll demonstrate using Affinity Designer, but Inkscape or other editors should w
 
 ### Files
 
-* **The blank border template**: [blank-border-template.svg](blank-border-template.svg).
+* **The blank border template**: <a href="blank-border-template.svg" download>blank-border-template.svg (download)</a>
 * **A jigsaw puzzle pattern** made up of 2D pieces, instead of 1D edges. You can [get some here](https://mchrisman.github.io/jigsawGenerator/).  (Hand-crafting your own is tricky, and not discussed in this tutorial.)
 * **Your own picture image**.
 
