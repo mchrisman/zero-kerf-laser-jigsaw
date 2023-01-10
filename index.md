@@ -13,14 +13,14 @@ This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-e
 
 ## 90-second video overview
 
-Start with this quick video: <!-- [https://www.youtube.com/watch?v=bI3UKxNdW8M](https://www.youtube.com/watch?v=bI3UKxNdW8M) -->
+This quick video shows the essence of the precision cutting technique, and also serves as the companion video for Part 1 of the tutorial.
 
 {% include youtube.html id="bI3UKxNdW8M" %}
 
 ## Tutorial
 
 - [Part 1: Using the Alignment Sled](using-the-alignment-sled.md) — Detailed walk-through with prepared example files
-- **Part 2: [forthcoming] Single-page puzzles** — How to create your own vector files
+- [Part 2: Single-page puzzles](single-page-puzzles.md) — How to create your own vector files
 - **Part 3: [forthcoming] Masking and de-masking (weeding)** — Discussion; weeding trick
 - **Part 4: [forthcoming] Multiple-page puzzles** — How to create your own vector files; how to mitigate relative error
 
@@ -45,3 +45,14 @@ Because in laser cutting, the kerf is always wider on top, narrower on the botto
 * Seamlessly joining halves of an oversized puzzle
 * Cutting individual pieces (e.g. replacements)
 * Scoring the back sides of prints, for origami fold lines.
+
+#### What is the MAP sled solving (that can't be solved with a ruler and stationary jig)?
+
+It compensates for:
+
+1. Glowforge's coordinate system origin can shift every time it recalibrates itself (millimeter-scale errors can happen)
+2. Glowforge's coordinate system origin can drift over time (sub-millimeter-scale errors are typical)
+3. Glowforge's coordinate system can be slightly out of scale (relative to the "real-world" distances defined by your favorite ruler).
+4. The **position** and **size** of the printed image on the page isn't predictable. (Large-scale errors are seen due to bleed or idiosyncracies of the printer. From page to page, unpredictable millimeter-scale differences of position and sub-millimeter-scale differences of size are typical.)
+
+The sled is designed to directly align the printed image's boundaries with Glowforge's coordinate system, without the intermediate step of going through the (irrelevant) real-world coordinate system.  The sled is disposable and generally single-use because of (1) and (2).
