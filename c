@@ -115,6 +115,6 @@ Now you're ready to
 * Print (or export to JPG or PDF) the "Print" layer.  Make sure the Cut layer is hidden when you do this!
 * Export the "Cut" layer as your laser-cutting template.  Make sure the Print layer is hidden!
 
-### Step 8: Make your puzzle
+### Step 8: Finish making your puzzle
 
 The steps for alignment and kerf adjustment were covered in [Part 1](using-the-alignment-sled.md).
