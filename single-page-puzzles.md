@@ -100,13 +100,13 @@ See the video for some tips on doing this efficiently. The important points are:
 * Make two copies of the set of pieces. Put one copy in the Print layer, and one in the Cut layer. 
 * For the pieces in the Print layer, **make sure that**
   * The picture fills are included
-  * The outline offset are 0.5mm
-  * The outline stroke are invisible.
+  * The outline offsets are 0.5mm
+  * The outline strokes are invisible.
 * For the pieces in the Cut layer, **make sure that**
   * The picture fills are deleted
   * The solid-color backgrounds are deleted
-  * The outline offset is 0mm
-  * The outline stroke is visible.
+  * The outline offsets are 0mm
+  * The outline strokes are visible.
 
 You can refer back to the files from [Part 1](using-the-alignment-sled.md) ("tutorial-cut.svg" and "tutorial-print.jpg") for an example of the correct result.
 
