@@ -16,7 +16,7 @@ I'll demonstrate using Affinity Designer, but Inkscape or other editors should w
 ### Files
 
 * **The blank border template**: <a href="blank-border-template.svg" download>blank-border-template.svg (download)</a>
-* **A jigsaw puzzle pattern** made up of 2D pieces, instead of 1D edges. You can [get some here](https://mchrisman.github.io/jigsawGenerator/).  (Hand-crafting your own is tricky, and not discussed in this tutorial.)
+* **A jigsaw puzzle pattern** made up of 2D pieces, instead of 1D edges. You can [get some here](https://mchrisman.github.io/jigsawGenerator/).  (Hand-crafting your own is tricky, and isn't discussed in this tutorial.)
 * **Your own picture image**.
 
 ## Step-by-step
@@ -29,7 +29,7 @@ I'll demonstrate using Affinity Designer, but Inkscape or other editors should w
 
 ### Step 1: Clone the blank border template and add your picture
 
-Make a copy of the blank border template (blank-border-template.svg).
+Make a copy of the blank border template <a href="blank-border-template.svg" download>(blank-border-template.svg)</a>.
 
 Open the copy in the vector editor. Set the document size to 8.5"x11" (landscape orientation). "Select all", and scale and position the borders so that they fill the whole page with no margins (the edges of the color bars being at the edge of the page).
 
