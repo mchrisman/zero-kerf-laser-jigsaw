@@ -24,6 +24,7 @@ I'll demonstrate using Affinity Designer, but Inkscape or other editors should w
 ### Companion video
 👉I suggest following both video and text.
 
+{% include youtube.html id="SXsY32mTGi4" %}
 
 
 ### Step 1: Clone the blank border template and add your picture
