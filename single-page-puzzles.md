@@ -34,6 +34,8 @@ If your editor permits it, now "lock" the Print and Cut layers to prevent accide
 
 Paste your photo into the middle of the page. Make it around 125mm high, to leave room for separating the pieces.
 
+![snapshot-2-1](https://user-images.githubusercontent.com/25491795/211438751-1b0755e6-9a75-42d7-9a57-63e1287e7c82.jpg)
+
 ### Step 2: Getting a 2-D jigsaw template
 
 We need a type of jigsaw puzzle template that consists of 2D pieces with closed boundaries, rather than the typical 1D edges.
@@ -49,6 +51,8 @@ Copy the jigsaw template into the file.
 Make sure you are copying all of the individual pieces, **not** "embedding" the jigsaw template as an external resource. 
 
 Resize and align the jigsaw pieces (as a group) to match the photo boundaries, but make it 1.0mm smaller than the photo in both dimensions. (We need a slight amount of padding to allow for error.)
+
+![snapshot-2-2](https://user-images.githubusercontent.com/25491795/211438832-29f5c241-779e-4a11-a568-28baecd53e4a.jpg)
 
 ### Step 4: Set the picture as the fill background for each piece
 
@@ -66,6 +70,8 @@ This is tedious because Affinity Designer doesn't have macro capability. But aut
 
 If done correctly, you should now be able to move around the individual pieces with their background pictures.
 
+![snapshot-2-3](https://user-images.githubusercontent.com/25491795/211438996-38301ef8-7229-475d-9b06-06f26becb26c.jpg)
+
 ### Step 5: Explode the puzzle
 
 Move the pieces away from each other to leave 1.0mm of space between them. 
@@ -80,6 +86,9 @@ For best results, keep the pieces in the same positions relative to each other. 
 * Keep neighbors close together if possible
 
 You can make an exception for parts of the image where alignment errors won't be noticeable, such as patches of sky. Rearrange those freely.
+
+![snapshot-2-4](https://user-images.githubusercontent.com/25491795/211439025-53a22109-f353-422a-8b13-78c8994242d8.jpg)
+
 
 ### Step 6: Make "Print" and "Cut" versions of the pieces.
 
