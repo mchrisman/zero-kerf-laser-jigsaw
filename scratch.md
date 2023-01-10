@@ -2,14 +2,13 @@
 #### What is the MAP sled solving (that can't be solved with a ruler and stationary jig)?
 
 It compensates for:
+
 1. Glowforge's coordinate system origin can shift every time it recalibrates itself (millimeter-scale errors can happen)
 2. Glowforge's coordinate system origin can drift over time (sub-millimeter-scale errors are typical)
-3. Glowforge's coordinate system can be slightly out of scale (relative to the real-world distances defined by your favorite ruler).
-4. The position and size of the printed image on the page isn't predictable (large errors are seen due to bleed or driver defaults, while between different pages, millimeter-scale differences of position and sub-millimeter-scale differences of size are typical)
+3. Glowforge's coordinate system can be slightly out of scale (relative to the "real-world" distances defined by your favorite ruler).
+4. The **position** and **size** of the printed image on the page isn't predictable. (Large errors are seen due to bleed or driver defaults. From page to page, smaller millimeter-scale differences of position and sub-millimeter-scale differences of size are typical.)
 
-The sled is designed to directly align Glowforge's coordinate system with the printed image's coordinate system, without the intermediate step of going through the real-world coordinate system.  (Your ordinary ruler is used only for an initial approximation.)  The sled is disposable and generally single-use because of (1) and (2).
-
-I'll share some more detailed notes about this later.
+The sled is designed to directly align the printed image's boundaries with Glowforge's coordinate system, without the intermediate step of going through the (irrelevant) real-world coordinate system.  The sled is disposable and generally single-use because of (1) and (2).
 
 #### What is "kerf" and "kerf-adjusted"?
 

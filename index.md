@@ -53,11 +53,11 @@ Because in laser cutting, the kerf is always wider on top, narrower on the botto
 
 #### What is the MAP sled solving (that can't be solved with a ruler and stationary jig)?
 
-It compensates for:
+It compensates for these sources of error:
 
-1. Glowforge's coordinate system origin can shift every time it recalibrates itself (millimeter-scale errors can happen)
-2. Glowforge's coordinate system origin can drift over time (sub-millimeter-scale errors are typical)
-3. Glowforge's coordinate system can be slightly out of scale (relative to the "real-world" distances defined by your favorite ruler).
-4. The **position** and **size** of the printed image on the page isn't predictable. (Large-scale errors are seen due to bleed or idiosyncracies of the printer. From page to page, unpredictable millimeter-scale differences of position and sub-millimeter-scale differences of size are typical.)
+1. The **position**, **size**, and **precise angle** of the printed image on the page isn't predictable. (Large-scale errors are seen due to bleed. From page to page, unpredictable millimeter-scale differences of position, and sub-millimeter-scale differences of size and angle, are typical.)
+2. Glowforge's coordinate system shift every time it recalibrates itself. (Millimeter-scale errors can happen.)
+3. Glowforge's coordinate system drift over time. (Sub-millimeter-scale errors are typical.)
+4. Glowforge's coordinate system can be slightly out of scale, relative to the "real-world" distances defined by your favorite precision ruler.  (For me the difference is about 0.1mm per 250mm.)  
 
-The sled is designed to directly align the printed image's boundaries with Glowforge's coordinate system, without the intermediate step of going through the (irrelevant) real-world coordinate system.  The sled is disposable and generally single-use because of (1) and (2).
+The sled is designed to directly align the printed image's boundaries with Glowforge's coordinate system, without the intermediate step of going through the (irrelevant) real-world coordinate system.  The sled is disposable and generally single-use because of (2) and (3).
