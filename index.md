@@ -24,6 +24,11 @@ This quick video shows the essence of the precision cutting technique, and also 
 - **Part 3: [forthcoming] Masking and de-masking (weeding)** — Discussion; weeding trick
 - **Part 4: [forthcoming] Multiple-page puzzles** — How to create your own vector files; how to mitigate relative error
 
+## Supplementary
+
+* [Jigsaw template generator for 2D pieces instead of 1D edges](https://mchrisman.github.io/jigsawGenerator/)
+* [Example of micro puzzles created using this technique](https://community.glowforge.com/t/christmas-russian-doll-jigsaw-puzzles-micro-puzzles/121318)
+
 ## Q & A
 
 #### Is "naked-eye perfect" alignment even possible?
