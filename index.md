@@ -1,5 +1,5 @@
 
-# A technique for accurate laser cutting on upside-down digital prints (especially for making kerf-adjusted jigsaw puzzles)
+# A technique for accurate laser cutting on upside-down digital prints. A tutorial on how to make zero-kerf laser-cut jigsaw puzzles.
 
 This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.
 
@@ -45,7 +45,7 @@ I'll share the long answer later.
 Because in laser cutting, the kerf is always wider on top, narrower on the bottom.  For jigsaw puzzles, if you want the kerf reduced or eliminated on the front face, you need to cut it upside-down.
 
 #### What is this good for?
-* Making kerf-adjusted puzzles
+* Making zero-kerf puzzles
 * Accurately cutting out shapes from a picture
 * Seamlessly joining halves of an oversized puzzle
 * Cutting individual pieces (e.g. replacements)
