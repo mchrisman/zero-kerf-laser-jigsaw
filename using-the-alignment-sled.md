@@ -5,7 +5,7 @@
 
 ## Detailed walk-through with prepared example files
 
-Let's use these already-prepared files.  (Part 2 will discuss how to create the files.)  The attached .zip file contains:
+Let's use [these already-prepared files (click to download)](tutorial-files.zip).  (Part 2 will discuss how to create the files.)  The bundle contains:
 
 * **tuturial-print.pdf** — the file for printing.  The piece outlines have been expanded to allow for a little bit of error.
 * **tutorial-print.jpg** — the same, in JPEG format.
@@ -14,7 +14,8 @@ Let's use these already-prepared files.  (Part 2 will discuss how to create the 
 
 ### Materials needed:
 
-* Photo printer (or use a printing service)
+_(See Q&A at the bottom for product recommendations.)_
+* Photo printer & matte photo paper (or use a printing service)
 * Photo mounting board
 * Photo mounting adhesive
 * Painter's tape
@@ -41,7 +42,7 @@ Considerations are:
 
 * De-masking ("weeding"): Masking is necessary for upside-down cuts. Photos from a print service are very easy to de-mask. If you use an inkjet printer at home, de-masking will be a challenge because transfer paper sticks like glue to inkjet photo paper. (You can weaken the transfer paper by repeated application to a piece of scrap photo paper, but it's a very fine line between "strong enough to do its job" and "weak enough to come off without tearing the photo", so I always end up with a few damaged pieces that need to be replaced. Fortunately, this method does allow you to cut replacement pieces!)
 
-* Appearance of edges: It's nice if the puzzle pieces edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos.
+* Appearance of edges: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos.
 
 * Appearance of photo: I prefer matte paper. On inkjet printers you can get very nice high-contrast colors on matte paper. True matte photos printed at the lab will be lower-contrast. If you prefer glossy or satin, then it's not a problem.
 
@@ -53,9 +54,9 @@ Considerations are:
 
 Print it on a letter-size sheet of matte photo paper.
 
-Printing to the expected scale can be challenging. Some printers may crop or automatically resize the image. It's okay if you can't print at the original scale, as we'll work with the actual dimensions rather than the expected dimensions. Just make sure the black border is visible and not cropped, and is smaller than 261x198mm (to fit within the sled's measurement area). The example file is set up to accommodate up to 4% bleed or 6mm margins.
+Printing to the expected scale can be challenging. Some printers may crop or automatically resize the image. It's okay if you can't print at the original scale, as we'll work with the actual dimensions rather than the expected dimensions. Just make sure the black border is visible and not cropped, and is smaller than 261x198mm (to fit within the sled's measurement area). The example file is set up to accommodate 6mm margins or a small amount of bleed.
 
-If you use a print service, use the .jpg file, and choose the option for no color correction.
+If you use a print service, use the .jpg file, choose the option for no color correction.  Depending on the amount of bleed, you may need to add additional margins to the .jpg file, so that in the final result, the black border is smaller than 261x198mm.
 
 ### Step 5: Label the "Reference Corner".
 
@@ -64,20 +65,20 @@ Mark the bottom-left corner of the page (oriented in landscape position) as the 
 ### Step 6 Trim if necessary
 
 Trim, if necessary, the *bottom and left* edges of the page (adjacent to the reference corner) so that there is less than 10mm between the black border and the edge of the page. (This is to avoid the photo print overhanging the sled.)  Don't lose the border. Example of trimmed print:
-[
+
 ![trim](https://user-images.githubusercontent.com/25491795/210688247-f00a71af-b566-4b7e-8c37-0b5869eb1a27.jpg)
 
 ### Step 7: Mount the print
 
-Mount it using your choice of backing board and adhesive. Make sure the board doesn't overhang the photo paper at the reference corner.
+Mount it using your choice of backing board and adhesive. Make sure the board doesn't extend beyond the edge of the photo paper at the reference corner.
 
 ### Step 8: Determine cutting parameters and kerf adjustment
 
 Using a separate scrap piece of identical photo paper and backing board, choose your cutting speed/power and run some [test cuts to decide how much kerf adjustment you want](https://community.glowforge.com/t/template-to-not-measure-the-kerf-test-directly-for-tightness-instead/116000). I've been using this strategy:
 
-* Choose a slower speed, like 170. (For better accuracy.)
-* Then choose the lowest power that cleanly cuts out all the pieces most of the time.
-* Then make the test cuts, and choose a kerf adjustment that's about halfway between "the pieces just fall apart" and "the pieces are difficult to pull apart".
+1. Choose a slower speed, like 170. (For better accuracy.)
+2. Then choose the lowest power that cleanly cuts out all the pieces most of the time. (This is to reduce char, and also because weeding is easier if you don't cut all the way through the masking paper.)
+3. Then make the test cuts, and choose a kerf adjustment that's about halfway between "the pieces just fall apart" and "the pieces are difficult to pull apart".
 
 ### Step 9: Mask the print
 
@@ -103,7 +104,7 @@ Use a [paper slicer](https://www.amazon.com/dp/B002OOVC84?ref=nb_sb_ss_w_as-reor
 
 ### Step 11: Make an initial estimated measurement
 
-Make an initial ("estimated") measurement with a ruler, to the outside edges of the black border, to the nearest millimeter.
+Make an initial ("estimated") measurement with a ruler, to the **outside edges** (not the inside edges) of the black border, to the nearest millimeter.
 
 ![measurement-with-ruler](https://user-images.githubusercontent.com/25491795/210688432-ca255b57-335c-4aff-a812-575516a387a7.jpg)
 
@@ -117,7 +118,9 @@ Select the precision error gauge on the bottom. Move it **vertically** so that i
 
 ![sled-template-in-interface](https://user-images.githubusercontent.com/25491795/210688706-7771c9e2-f385-4e42-a20e-2f321bd050e3.jpg)
 
-### Step 12:  Fix the cardstock in the jig
+<p class="warning"><i>Glowforge interprets the SVG file assuming 96dpi.  <b>If you're not using a Glowforge</b>, you may need to adjust the scale.  The diamond in the corner should be centered at coordinates (10mm,10mm).  The height of the error gauge at the bottom (see picture above) should be 6mm.  The width of the error gauge at the right should also be 6mm.</i></p>
+
+### Step 13:  Fix the cardstock in the jig
 
 Place a sheet of heavy card stock in the Glowforge cutting area, snugly against the three-point jig
 
@@ -129,17 +132,17 @@ Carefully, without moving it, tape down the corners with painter's tape.
 
 <img width="432" alt="cutting sled" src="https://user-images.githubusercontent.com/25491795/210688594-18067b27-e461-4c8a-8753-d5f826872796.png">
 
-### Step 13: Cut the MAP sled. 
+### Step 14: Cut the MAP sled. 
 
 For heavy card stock, I use speed 240, power 30. Don't use the highest speed, as it will be less accurate.
 
-### Step 14: Align the sled to the photo.
+### Step 15: Align the sled to the photo.
 
 Set the masked photo on the table, face up, with the reference corner at the bottom left.
 
 Remove the cut sled from the Glowforge, and flip the sled upside-down, so that its reference corner is also at the bottom left.
 
-Align the guide holes along the left and bottom edges of the sled to the left and bottom outside edges of the photo's black border.
+Align the guide holes along the left and bottom edges of the sled to the left and bottom **outside edges** (not inside edges) of the black border.
 
 ![align the guide holes 2](https://user-images.githubusercontent.com/25491795/210688752-84ebd242-40f5-4558-90ef-e6a8e93338ae.jpg)
 
@@ -147,75 +150,88 @@ As best you can, get the edge of the border going right through the exact center
 
 <img width="360" alt="aligned-magnified" src="https://user-images.githubusercontent.com/25491795/210688767-62b64c0a-6ce8-4538-b07c-1e8174a2bb93.png">
 
-### Step 15: Make your precise measurement
+### Step 16: Fine-tune your initial measurement
 
-Adjust your initial measurement using the error gauges in the sled. The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge measuring circles are arranged in increments of 0.1mm.
+The error gauges, at the top and the right of the sled, let you tune your "estimated" dimensions to a precision of 0.1mm or better. The gauge's small measuring circles are arranged in increments of 0.1mm.  Remember you are measuring the **outside edges** (not inside edges) of the black border.
 
-(Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)
+![error-gauge](https://user-images.githubusercontent.com/25491795/210764155-8483bd15-691f-476d-ad77-58f9293dba3d.jpg)
+
+_(Note, this is the step in which the photo's dimensions are directly mapped to Glowforge's coordinate system. The "real world" coordinate system, as defined by your favorite ruler, is actually irrelevant.)_
 
 ![reading-error-gauges](https://user-images.githubusercontent.com/25491795/210688825-8453f7a4-9d8d-42f1-8e0e-365112f08608.jpg)
 
-### Step 16:  Flip and place the photo for cutting.
+### Step 17:  Flip and place the photo for cutting.
 
 Flip over the taped-together photo/sled assembly top-to-bottom, so that the reference corner is in the top left, and the photo is resting face-down on top of the sled.
 
-Do not rush this step: Place the assembly back on the crumb tray against the Three-Point jig, with the sled in the exact same spot as before. The sled should be resting directly against the Three-Point jig. (If you can't do this because the photo is overhanging the sled, then you forgot to trim the photo. Start over at that step.)
+Do not rush this step: Place the assembly back on the crumb tray against the Three-Point jig, with the sled in the exact same spot as before. The sled should be resting directly against the Three-Point jig. (If you can't do this because the photo/board is overhanging the sled, then you forgot to trim the photo/board. Start over at that step.)
 
 Carefully pin it down without moving it.
+
 <img width="380" alt="place-assembly-in-cutter" src="https://user-images.githubusercontent.com/25491795/210688853-15ee9987-05bf-47af-a8ca-ddc07e6220de.png">
 
-### Step 17: Load the cutting file (tutorial-cut.svg) into your vector editor.
+### Step 18: Load the cutting file (tutorial-cut.svg) into your vector editor.
 
 Make sure your editor is set to use units of millimeters, not pixels.
 
-### Step 18: Adjust the cutting file dimensions
+### Step 19: Adjust the cutting file dimensions
 
 In the editor, "Select all" (rectangular boundary and pieces) and:
 
 1. Flip the whole thing upside-down (Important: we're cutting upside down! After flipping, the reference corner is at the upper left).
-2. Resize it to the corrected dimensions you measured using the error gauges. (Important: unlock the aspect ratio when doing this!)
+2. Resize it (width and height) to the corrected dimensions you measured using the error gauges. (**Important**: unlock the aspect ratio when doing this!)
 3. Move it to position the top-left corner at (10mm, 10mm).
 
-### Step 19:  Apply your kerf adjustment 
+### Step 20:  Apply your kerf adjustment 
 
 Apply the kerf adjustment to the pieces—but not the rectangular border!—including the four "canary pieces" in the corners.
 
-- #### In Affinity Designer, it's the "Contour" tool
- - ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
-- #### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
- - I'm not familiar with Inkscape, sorry
-- #### In the Glowforge interface it's the "Create Outline" tool
- - I can't get this to work correctly.
+_Tip:  use slightly less kurf adjustment (individually) on more delicate whimsy pieces, to prevent breaking during disassembly._
 
-### Step 20:  Load the design into Glowforge.
+#### In Affinity Designer, it's the "Contour" tool
+ ![affinity-designer-contour](https://user-images.githubusercontent.com/25491795/210688868-6f2349bd-776f-441a-ba15-f6101c4c4ddf.jpg)
+#### In Inkscape, this is the "Outset" or "Dynamic Offset" tool
+I'm not familiar with Inkscape, sorry
+#### In the Glowforge interface it's the "Create Outline" tool
+I can't get this to work correctly. 
 
-Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. Verify the position and dimensions.
+### Step 21:  Load the design into Glowforge.
+
+Save/export the design from your editor in the usual way, and upload it in the Glowforge interface. 
+
+"Select all" and verify the position and dimensions.
 
 ![verifying-cut-in-interface](https://user-images.githubusercontent.com/25491795/210688934-7f7d545d-c3ee-4857-955d-2ddc7affe377.jpg)
 
-### Step 21 (optional but recommended):  Cut two canary pieces
+### Step 22 (optional but recommended):  Cut two canary pieces
 
 Go ahead and cut two opposite "canary" pieces to check the alignment. Holding the sheet down in the GF so that it doesn't move, carefully pry out the canary pieces with a knife. You should get an accurately-cut red or green piece.
 
 ![canaries](https://user-images.githubusercontent.com/25491795/210688979-f3319a41-9619-4802-a875-96d20410e088.jpg)
 
-### Step 22 Cut the pieces! 
+### Step 23 Cut the pieces! 
 
-Ignore (don't cut) the rectangular border.
+Ignore (don't cut) the rectangular border.  Cut the pieces.  
 
-### Step 23: Discard the paper sled
+After the cut, you will see that a sliver of the image remains around the holes.  That's because the printed piece's outline is made larger than the cut piece's outline by 0.5mm, to allow for slight misalignments.
+
+In this example, the cut wasn't quite perfectly centered, but it was off by only 0.1mm, which is acceptable and typical.  For single-page puzzles, the error disappears anyway, because the _relative_ error between adjacent pieces is small.
+
+![final-cu2](https://user-images.githubusercontent.com/25491795/211124471-37fc689d-4b8e-4107-9ab4-1f00a1ed6580.jpeg)
+
+### Step 24: Discard the paper sled
 
 For the next job, print a new one. (This is because Glowforge's coordinates can drift over time.)
 
-### Step 24: Remove ("weed") the masking paper and clean the edge char.
+### Step 25: Remove ("weed") the masking paper and clean the edge char.
 
 You can find advice elsewhere on this (in short, use Gorilla tape to pull off the masking paper, and tumble in Kosher salt to clean the char). But see later parts of the tutorial for my weeding trick.
 
-### Step 25: Replace bad pieces
+### Step 26: Replace bad pieces
 
 If there are any bad pieces (failed cut, face charring, photo torn during weeding), this method lets you cut individual replacements. Or, more simply, cut another copy of the whole puzzle to get a full inventory of replacement pieces for future copies.
 
-Note that pieces cut from a separate sheet often won't be *perfectly* aligned, but they will usually be good enough for the puzzle player not to notice.
+Note that pieces cut from a separate sheet sometimes won't be *perfectly* aligned, but they will usually be good enough for the puzzle player not to notice.
 
 ## Q & A
 

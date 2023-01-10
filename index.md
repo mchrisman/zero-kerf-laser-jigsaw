@@ -3,8 +3,13 @@
 
 This method uses a Measurement and Alignment (MAP) sled, the goal being "naked-eye perfect" cut alignment.
 
-<p class="warning" style="background-color:#ffffcc; padding:1em">
-<b>Fair warning:</b> I'm happy with the alignment technique.  But masking/de-masking inkjet photo paper is tricky; in spite of having practice, I usually have a few damaged pieces that need to be recut. Patience is required.</p>
+<p class="error"><b>This is not a beginner-level technique.</b> If you've never made a laser-cut jigsaw puzzle before, start with one of the many simple tutorials easily found on YouTube.</p>
+
+<p class="error">
+<b>Fair warning for experienced puzzle makers:</b> this is a laborious way to make a puzzle. (Also expensive, for larger puzzles.)  Continue only if you have a serious peeve against loosely-fitting puzzles, or you have some other specific use for the technique.</p>
+
+<p class="info">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
+
 
 ## 90-second video overview
 
@@ -22,14 +27,14 @@ Start with this quick video: <!-- [https://www.youtube.com/watch?v=bI3UKxNdW8M](
 ## Q & A
 
 #### Is "naked-eye perfect" alignment even possible?
-The short answer: Just barely ... usually ... depending on the use case.  
-
-I'll share the long answer later.  The TL;DR version:
+The short answer: Just barely ... usually ... depending on the use case.
 
 * Jigsaw puzzle pieces should be relatively aligned within 0.2mm (depending on photo, resolution, piece size).
 * Small puzzles cut from a single page appear perfect, because errors in adjacent pieces tend to cancel out.
 * My own Glowforge is only accurate to 0.1mm (after compensating for scale and drift)
-* My own error using this technique is usually less than 0.2mm.
+* I can usually place cuts with error under 0.2mm.
+
+I'll share the long answer later.
 
 #### Why cut upside-down?
 Because in laser cutting, the kerf is always wider on top, narrower on the bottom.  For jigsaw puzzles, if you want the kerf reduced or eliminated on the front face, you need to cut it upside-down.
