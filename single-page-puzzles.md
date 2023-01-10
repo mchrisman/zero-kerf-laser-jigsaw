@@ -35,7 +35,7 @@ Open the copy in the vector editor. Set the document size to 8.5"x11" (landscape
 
 If your editor permits it, now "lock" the Print and Cut layers to prevent accidental editing of the borders.
 
-Paste your photo into the middle of the page. Make it around 125mm high, to leave room for separating the pieces.
+Check that your document resolution is at least as great as the photo's.  Paste your photo into the middle of the page. Make it around 125mm high, to leave room for separating the pieces.
 
 ![snapshot-2-1](https://user-images.githubusercontent.com/25491795/211438751-1b0755e6-9a75-42d7-9a57-63e1287e7c82.jpg)
 
