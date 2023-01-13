@@ -5,7 +5,9 @@
 
 ## Detailed walk-through with prepared example files
 
-Let's use [these already-prepared files (click to download)](tutorial-files.zip).  (Part 2 will discuss how to create the files.)  The bundle contains:
+The sled has multiple uses.  For this tutorial, we'll demonstrate using it to make a zero-kerf photo jigsaw puzzle.
+
+We'll use [these already-prepared files (click to download)](tutorial-files.zip).  (Part 2 will discuss how to create the files.)  The bundle contains:
 
 * **tuturial-print.pdf** — the file for printing.  The piece outlines have been expanded to allow for a little bit of error.
 * **tutorial-print.jpg** — the same, in JPEG format.
@@ -38,17 +40,17 @@ Position the Three-Point jig with its inside edges slightly outside (less than 5
 
 ### Step 3: Decide whether to print your photo at home or to use a print service. 
 
-Considerations are:
+**De-masking ("weeding")**: Masking is necessary for upside-down cuts. 
+* **Photos from a print service** are very easy to de-mask.
+* **If you use an inkjet printer**, de-masking will be a challenge because transfer paper sticks like glue to inkjet photo paper. (You can weaken the transfer paper by repeated application to a piece of scrap photo paper, but it's a very fine line between "strong enough to do its job" and "weak enough to come off without tearing the photo".  So, **I always end up with a few damaged pieces that need to be replaced**, which I generally do by making a second copy to get a batch of replacement pieces.)
 
-* De-masking ("weeding"): Masking is necessary for upside-down cuts. Photos from a print service are very easy to de-mask. If you use an inkjet printer at home, de-masking will be a challenge because transfer paper sticks like glue to inkjet photo paper. (You can weaken the transfer paper by repeated application to a piece of scrap photo paper, but it's a very fine line between "strong enough to do its job" and "weak enough to come off without tearing the photo", so I always end up with a few damaged pieces that need to be replaced. Fortunately, this method does allow you to cut replacement pieces!)
+**Appearance of edges**: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos. (YMMV depending on choices of photo paper.)
 
-* Appearance of edges: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos.
+**Appearance of photo**: I prefer matte paper. On inkjet printers you can get very nice high-contrast colors on matte paper. True matte photos printed at the lab will be lower-contrast. If you prefer glossy or satin, then it's not a problem.
 
-* Appearance of photo: I prefer matte paper. On inkjet printers you can get very nice high-contrast colors on matte paper. True matte photos printed at the lab will be lower-contrast. If you prefer glossy or satin, then it's not a problem.
+**Durability**: Lab-printed photos are more resistant to scuffing and scratches.
 
-* Durability: Lab-printed photos are more resistant to scuffing and scratches.
-
-* Convenience: When you're first learning, expect to make mistakes and need to redo things. If ordering from a lab, order more than one copy to save turnaround time.
+**Convenience**: When you're first learning, expect to make mistakes and need to redo things. If ordering from a lab, order more than one copy to save turnaround time.
 
 ### Step 4: Print the example file (tutorial-print.pdf)
 
@@ -94,7 +96,7 @@ If you are using an inkjet printer, it will be a little challenging.  The maskin
 4. Around 10 times or more: stick a piece of spare photo paper to it (starting with very light squeegee pressure, increasing to medium), then pull it off.
 5. Stop when it feels only slightly tacky. There’s a very fine line between “too strong to pull off” and “too weak to do its job”. It takes practice.
 6. Apply the transfer paper to the photo, carefully avoiding introduction of bubbles, then lightly roll it down with a rubber roller (or you can manage with fingers). Again, the use of the right amount of force takes some practice.
-7. Adjust your expectations.  Even with the above steps, you'll probably have some failed pieces (torn because the masking was too strong, or discolored because it was too weak.)  Fortunately, it's not difficult to cut replacement pieces.
+7. Adjust your expectations.  Even with the above steps, you're certain to have some failed pieces (torn because the masking was too strong, or discolored because it was too weak.)  Fortunately, it's not difficult to cut replacement pieces.
 
 ### Step 10: Trim the masking
 
@@ -122,7 +124,7 @@ Select the precision error gauge on the bottom. Move it **vertically** so that i
 
 ### Step 13:  Fix the cardstock in the jig
 
-Place a sheet of heavy card stock in the Glowforge cutting area, snugly against the three-point jig
+Place a sheet of heavy card stock in the Glowforge cutting area, snugly against the three-point jig.
 
 ️Do not rush this step! Assure yourself that you can remove and replace the card stock in exactly the same position. 
 Make sure the edge of the card stock is stopped against the three-point jig — not slipping underneath. If it keeps 
