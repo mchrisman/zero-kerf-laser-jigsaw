@@ -18,7 +18,7 @@ This quick video shows the essence of the precision cutting technique, which can
 
 - [Part 1: Using the Alignment Sled](using-the-alignment-sled.md) — Detailed walk-through with prepared example files
 - [Part 2: Single-page puzzles](single-page-puzzles.md) — How to create your own vector files for a zero-kerf jigsaw puzzle
-- **Part 3: [forthcoming] Masking and de-masking (weeding)** — Discussion; weeding trick
+- [Part 3: Masking and Weeding](masking-and-weeding.md) — Discussion; weeding trick
 - **Part 4: [forthcoming] Multiple-page puzzles** — How to create your own vector files; how to mitigate relative error
 
 ## Supplementary
