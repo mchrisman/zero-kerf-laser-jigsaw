@@ -1,10 +1,9 @@
 
-# A technique for accurate laser cutting on upside-down digital prints.  Example application: (tutorial) making zero-kerf laser-cut jigsaw puzzles.
+# A technique for accurate laser cutting on upside-down digital prints.
 
-<p class="error"><b>This is not a beginner-level technique.</b> If you've never made a laser-cut jigsaw puzzle before, start with one of the many simple tutorials easily found on YouTube.</p>
+Among other applications, you can use this to make zero-kerf photo jigsaw puzzles.
 
-<p class="error">
-<b>Fair warning for experienced puzzle makers:</b> this is a laborious way to make a photo puzzle. (Also expensive, for larger puzzles.)  Continue only if you have a serious peeve against loosely-fitting puzzles, or you have some other need for the precision cutting technique.</p>
+<p class="error"><b>Beginners:</b> If you've never made a laser-cut jigsaw puzzle before, learn the easy way first. There are a lot of tutorials on YouTube.<br/><br/><b>Experienced puzzle makers:</b> Eliminating kerf is straightforward but requires more effort.  Larger puzzles are expensive because you need multiple pages.</p>
 
 <p class="info">Any comments or questions may be posted <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum.</a></p>
 
@@ -16,8 +15,8 @@ This quick video shows the essence of the precision cutting technique, which can
 
 ## Tutorial
 
-- [Part 1: Using the Alignment Sled](using-the-alignment-sled.md) — Detailed walk-through with prepared example files
-- [Part 2: Single-page puzzles](single-page-puzzles.md) — How to create your own vector files for a zero-kerf jigsaw puzzle
+- [Part 1: Precision Cuts Using the Alignment Sled](using-the-alignment-sled.md) — Learn to make precision upside-down photo cuts.  Detailed walk-through for an example application (making a kerf-adjusted jigsaw puzzle, with pre-prepared files).
+- [Part 2: Setting up files for single-page puzzles](single-page-puzzles.md) — Learn to create vector files for a small zero-kerf jigsaw puzzle.
 - [Part 3: Masking and Weeding](masking-and-weeding.md) — Discussion; weeding trick
 - **Part 4: [forthcoming] Multiple-page puzzles** — How to create your own vector files; how to mitigate relative error
 
