@@ -4,6 +4,8 @@
 
 Here's my method for masking and weeding.  
 
+<p class="error">I've found a  <a href="https://www.amazon.com/gp/product/B0017SOXTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">new inkjet paper that avoids the problem described here</a>.  I'll update the tutorial soon.</p>
+
 For lab-printed photos, it's not a problem; they weed easily.  For inkjet-printed photos, it's super hard.  I really hope 
 somebody will think of a better technique and share it <a href="https://community.glowforge.com/t/kerf-adjusted-jigsaw-puzzles-tutorial/121437">in the Glowforge forum!</a>
 
