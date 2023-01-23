@@ -1,8 +1,9 @@
 [< BACK](index.md)
 
-# Part 2: Single-Page Puzzles — Creating your own vector files
+# Part 2: Creating the vector files for a single-page zero-kerf jigsaw puzzle
 
-Here's how to create your own vector files for single-page kerf-adjusted jigsaw puzzles, such as the example used in [Part 1](using-the-alignment-sled.md).
+To make your own puzzle, start here to create your own vector files, and then use the [alignment method from Part 1](using-the-alignment-sled.md) to align your cut.
+
 
 ## Materials
 
