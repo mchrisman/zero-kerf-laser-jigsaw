@@ -1,7 +1,7 @@
 
 # A technique for accurate laser cutting on upside-down digital prints.
 
-Among other applications, you can use this to make zero-kerf photo jigsaw puzzles.
+Among other applications, you can use this to make **zero-kerf photo jigsaw puzzles*.
 
 <p class="error"><b>Beginners:</b> If you've never made a laser-cut jigsaw puzzle before, learn the easy way first. There are a lot of tutorials on YouTube.<br/><br/><b>Experienced puzzle makers:</b> Eliminating kerf is straightforward but requires more effort.  Larger puzzles are expensive because you need multiple pages.</p>
 
