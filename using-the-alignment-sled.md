@@ -1,4 +1,4 @@
-[< BACK](index.md)
+[< BACK TO  TABLE OF CONTENTS](index.md)
 
 
 # Part 1: Using the Alignment Sled 
@@ -234,6 +234,8 @@ You can tumble the pieces in a jug of Kosher salt to clean the char.  But I find
 If there are any bad pieces (failed cut, face charring, photo torn during weeding), this method lets you cut individual replacements. Or, more simply, cut another copy of the whole puzzle to get a full inventory of replacement pieces for future copies.
 
 Note that pieces cut from a separate sheet sometimes won't be *perfectly* aligned, but they will usually be good enough for the puzzle player not to notice.
+
+[< BACK TO  TABLE OF CONTENTS](index.md)
 
 ## Q & A
 
