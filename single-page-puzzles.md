@@ -120,3 +120,5 @@ Now you're ready to
 ### Step 8: Finish making your puzzle
 
 The steps for alignment and kerf adjustment were covered in [Part 1](using-the-alignment-sled.md).
+
+[< BACK TO  TABLE OF CONTENTS](index.md)
