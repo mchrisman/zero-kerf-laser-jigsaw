@@ -15,7 +15,7 @@ Plus, of course, all the other materials needed for your puzzle as described in 
 
 {% include youtube.html id="C59MpAFg_r4" %}
 
-_An older version of this video dealt with the problem of inkjet photo paper sticking too strongly to the masking.  I no longer recommend using such paper, having found a better alternative, as mentioned in the video.  But if you want to watch the older video, it's here: https://youtu.be/pxZ4Tgz4G1o._
+_An older version of this video dealt with the problem of inkjet photo paper sticking too strongly to the masking.  I no longer recommend using such paper, having found a better alternative, as mentioned in the video.  But if you want to watch the older video, it's here: [https://youtu.be/pxZ4Tgz4G1o](https://youtu.be/pxZ4Tgz4G1o).
 
 ## Feedback
 
