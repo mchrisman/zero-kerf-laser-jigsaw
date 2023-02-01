@@ -40,17 +40,23 @@ Position the Three-Point jig with its inside edges slightly outside (less than 5
 
 ### Step 3: Decide whether to print your photo at home or to use a print service. 
 
-**De-masking ("weeding")**: Masking is necessary for upside-down cuts. 
-* **Photos from a print service** are very easy to de-mask.
-* **If you use an inkjet printer**, de-masking will be a challenge because transfer paper sticks like glue to inkjet photo paper. (You can weaken the transfer paper by repeated application to a piece of scrap photo paper, but it's a very fine line between "strong enough to do its job" and "weak enough to come off without tearing the photo".  So, **I always end up with a few damaged pieces that need to be replaced**, which I generally do by making a second copy to get a batch of replacement pieces.)
+I've tried around 8 kinds of lab-printed photos and 10 kinds of inkjet photo paper.  At the moment, I'm printing mine at home on a Canon Pixma PRO-200 inkjet printer using ProMaster Natural Watercolor Cotton Paper.  The most important consideration is that the **photo print paper must be compatible with the masking transfer paper**, so you don't tear off the picture trying to de-mask it.  
 
-**Appearance of edges**: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. Inkjet-printed photos have an advantage here over lab-printed photos. (YMMV depending on choices of photo paper.)
+Your needs may vary.  Consider:
 
-**Appearance of photo**: I prefer matte paper. On inkjet printers you can get very nice high-contrast colors on matte paper. True matte photos printed at the lab will be lower-contrast. If you prefer glossy or satin, then it's not a problem.
+**De-masking ("weeding")**: 
+* **Photos from a print service**: All of the ones I've tried have some kind of coating that makes de-masking easy.
+* **If you use an inkjet printer**: You have to choose the right paper.  **All** of the inkjet papers labelled as "photo paper" I've tried, whether glossy or matte, have been extremely difficult to de-mask.  Avoid them!  That's why I ended up using the cotton paper mentioned above. 
 
-**Durability**: Lab-printed photos are more resistant to scuffing and scratches.
+**Appearance of edges**: It's nice if the puzzle pieces' edges are less visible when viewing the completed puzzle. For all of the papers I've tried, Inkjet-printed photos have a slight advantage here over lab-printed photos. (YMMV depending on choices of photo paper.)
 
-**Convenience**: When you're first learning, expect to make mistakes and need to redo things. If ordering from a lab, order more than one copy to save turnaround time.
+**Finish**:  This is a personal preference.  I prefer matte paper, not glossy, to avoid glare from overhead lights.  It also looks more elegant, if you're going to mount the completed puzzle.  However, true matte photos from the lab ("Fuji deep matte") will have lower contrast.  The cotton inkjet paper I mention above also has lower contrast, but I think you'll find it acceptable and superior to lab-printed matte photos.  
+
+**Durability**: Lab-printed photos seem more resistant to wear.  I didn't test this thoroughly.
+
+**Convenience**:  If ordering from a lab, order more than one copy to save turnaround time when you make a mistake and need to redo something.
+
+**Photo printer**: If you're assembling a puzzle cut from multiple sheets, make sure your printer gives consistent color from one side of the page to the other—my HP OfficeJet completely failed at this—and from one page to the next.  (This is why my template includes color bars around the edges.)  If you're not ready to spend the money on a good inkjet photo printer, try using a lab first.
 
 ### Step 4: Print the example file (tutorial-print.pdf)
 
@@ -86,17 +92,9 @@ Using a separate scrap piece of identical photo paper and backing board, choose 
 
 Mask it with transfer tape (low-tack if you can obtain it).
 
-If you're using a lab-printed photo, this is straightforward.
+If you're using a lab-printed photo, or a good inkjet paper that's compatible with the masking (such as the cotton paper I mentioned above), this is straightforward.  Apply the masking, smooth it down avoiding bubbles, and press it down moderately with fingers or a rubber roller.
 
-If you are using an inkjet printer, it will be a little challenging.  The masking will stick to inkjet photo paper like glue.  Right now this is the best advice I can offer:
-
-1. Start with matte inkjet photo paper, which tends to be a little less sticky than glossy.
-2. Place the transfer paper sticky-side-up to the desk (taped down at the edges)
-3. Around 10 times: stick a piece of cardstock to it (with gradually increasing pressure with the squeegee), then pull it off.
-4. Around 10 times or more: stick a piece of spare photo paper to it (starting with very light squeegee pressure, increasing to medium), then pull it off.
-5. Stop when it feels only slightly tacky. There’s a very fine line between “too strong to pull off” and “too weak to do its job”. It takes practice.
-6. Apply the transfer paper to the photo, carefully avoiding introduction of bubbles, then lightly roll it down with a rubber roller (or you can manage with fingers). Again, the use of the right amount of force takes some practice.
-7. Adjust your expectations.  Even with the above steps, you're certain to have some failed pieces (torn because the masking was too strong, or discolored because it was too weak.)  Fortunately, it's not difficult to cut replacement pieces.
+For a video of this, see [Part 3: Masking and Weeding](masking-and-weeding.md).
 
 ### Step 10: Trim the masking
 
@@ -207,7 +205,7 @@ Save/export the design from your editor in the usual way, and upload it in the G
 
 ### Step 22 (optional but recommended):  Cut two canary pieces
 
-Go ahead and cut two opposite "canary" pieces to check the alignment. Holding the sheet down in the GF so that it doesn't move, carefully pry out the canary pieces with a knife. You should get an accurately-cut red or green piece.
+Go ahead and cut two opposite "canary" pieces to check the alignment. **While holding the piece down** in the GF so that it doesn't move, carefully pry out the canary pieces with a knife. You should get an accurately-cut red or green piece.
 
 ![canaries](https://user-images.githubusercontent.com/25491795/210688979-f3319a41-9619-4802-a875-96d20410e088.jpg)
 
@@ -227,7 +225,9 @@ For the next job, print a new one. (This is because Glowforge's coordinates can 
 
 ### Step 25: Remove ("weed") the masking paper and clean the edge char.
 
-You can find advice elsewhere on this (in short, use Gorilla tape to pull off the masking paper, and tumble in Kosher salt to clean the char). But see later parts of the tutorial for my weeding trick.
+You can weed the masking in the ordinary way (using bits of Gorilla tape to pull off the masking paper from each piece).  But see [Part 3: Masking and Weeding](masking-and-weeding.md) for an trick to make it easier.
+
+You can tumble the pieces in a jug of Kosher salt to clean the char.  But I find this to be less important if you choose the right materials.  With my recommended plywood and inkjet paper (see Product Recommendations below), I don't really find it necessary.
 
 ### Step 26: Replace bad pieces
 
@@ -241,12 +241,12 @@ Note that pieces cut from a separate sheet sometimes won't be *perfectly* aligne
 
 
 * **Recommended**: Photo mounting board: this [1/16" plywood for mounting](https://www.amazon.com/gp/product/B08KPKCYDZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) cuts cleanly with little char
-* Photo paper: I prefer matte paper, as it gives a more elegant appearance, and de-masks more easily than glossy.  I'm using Canon double-sided matte paper, but I don't know its longevity.
-* Transfer tape: I'm currently using [this](https://www.specialty-graphics.com/rtape-aplitape-4000-low-tack-tape-50-yd-roll/), but it still needs to be significantly weakened to use with inkjet photo paper.
+* **Recommended**: Inkjet photo paper: [ProMaster Natural Watercolor Cotton Paper](https://www.amazon.com/Promaster-Fine-Art-Inkjet-Paper/dp/B0017SOXTS)
+* Transfer tape: I'm currently using [this](https://www.specialty-graphics.com/rtape-aplitape-4000-low-tack-tape-50-yd-roll/).
 * Photo mounting adhesive: there are options with pros and cons.
   * [3M 568 pressure-sensitive mounting adhesive](https://www.amazon.com/gp/product/B000JGQM1Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Cheaper than individual sheets, but a little difficult to use. This is the only option that claims to be "Photo Safe".
   * [These pressure-sensitive sheets](https://www.binding101.com/mounting-adhesive-sheets?sku=80PSMAS81211) are my favorite, but the website doesn't warn you if they're 4 weeks backordered!
-  * [These instant-adhesive sheets](https://www.amazon.com/BENECREAT-Double-Sheets-8-3x11-5-Adhesive/dp/B0866XJ84S/ref=sxts_rp_s_a_1_0?content-id=amzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4%3Aamzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4&crid=3U74QPXJUGX4R&cv_ct_cx=double-sided%2Badhesive%2Bsheets&keywords=double-sided%2Badhesive%2Bsheets&pd_rd_i=B0866XJ84S&pd_rd_r=e78f8435-7dd9-404a-89a8-3c781455bc81&pd_rd_w=n4MNU&pd_rd_wg=QuFlA&pf_rd_p=eff26b9b-e255-411b-a40d-eccb21f93fe4&pf_rd_r=J9HMGCD3YHGDCTS78EYW&qid=1672700237&sprefix=double-sided%2Badhesive%2Bsheets%2Caps%2C130&sr=1-1-5985efba-8948-4f09-9122-d605505c9d1e&th=1) are cheaper but it's hard to avoid bubbles.
+  * [These instant-adhesive sheets](https://www.amazon.com/BENECREAT-Double-Sheets-8-3x11-5-Adhesive/dp/B0866XJ84S/ref=sxts_rp_s_a_1_0?content-id=amzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4%3Aamzn1.sym.eff26b9b-e255-411b-a40d-eccb21f93fe4&crid=3U74QPXJUGX4R&cv_ct_cx=double-sided%2Badhesive%2Bsheets&keywords=double-sided%2Badhesive%2Bsheets&pd_rd_i=B0866XJ84S&pd_rd_r=e78f8435-7dd9-404a-89a8-3c781455bc81&pd_rd_w=n4MNU&pd_rd_wg=QuFlA&pf_rd_p=eff26b9b-e255-411b-a40d-eccb21f93fe4&pf_rd_r=J9HMGCD3YHGDCTS78EYW&qid=1672700237&sprefix=double-sided%2Badhesive%2Bsheets%2Caps%2C130&sr=1-1-5985efba-8948-4f09-9122-d605505c9d1e&th=1) are cheaper, but not repositionable and it's hard to avoid bubbles.
   * [Gorilla spray adhesive](https://www.amazon.com/gp/product/B08NTXD3XB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1): Works but is very messy
 * Heavy card stock: [these](https://www.amazon.com/gp/product/B08DDCR4NH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) are adequate. It's nice to have some with contrasting colors.
 * **Recommended**: [Paper slicer](https://www.amazon.com/dp/B002OOVC84?ref=nb_sb_ss_w_as-reorder-t1_ypp_rep_k2_1_12&amp=&crid=2JCP8I7RSQRN7&sprefix=paper%2Bslicer&th=1): these are so useful that I have several around the house (office, kitchen, garage)
