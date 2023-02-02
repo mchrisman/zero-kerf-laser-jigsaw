@@ -18,7 +18,7 @@ This quick video shows the essence of the precision cutting technique, which can
 - [Part 1: Precision Cuts Using the Alignment Sled](using-the-alignment-sled.md) — Learn to make precision upside-down photo cuts.  Detailed walk-through for an example application (making a kerf-adjusted jigsaw puzzle, with pre-prepared files).
 - [Part 2: Setting up files for single-page puzzles](single-page-puzzles.md) — Learn to create vector files for a small zero-kerf jigsaw puzzle.
 - [Part 3: Masking and Weeding](masking-and-weeding.md) — Discussion; weeding trick
-- **Part 4: [forthcoming] Multiple-page puzzles** — How to create your own vector files; how to mitigate relative error
+- [Part 4: Multi-page puzzles](multipage-puzzles.md) — How to divide the puzzle; how to mitigate relative error
 
 ## Supplementary
 
