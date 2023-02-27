@@ -1,15 +1,8 @@
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RMNG6FJDBG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RMNG6FJDBG');
-</script>
+{% include analytics.html %}
 
 
-<p> A non-script... </p>
+<p> A non-script 2... </p>
 
 #### What is the MAP sled solving (that can't be solved with a ruler and stationary jig)?
 
