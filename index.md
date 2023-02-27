@@ -1,4 +1,6 @@
+
 {% include analytics.html %}
+
 # A technique for accurate laser cutting on upside-down digital prints.
 
 Among other applications, you can use this to make **zero-kerf photo jigsaw puzzles**.
