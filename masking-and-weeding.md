@@ -1,3 +1,6 @@
+
+{% include analytics.html %}
+
 [< BACK TO  TABLE OF CONTENTS](index.md)
 
 # Part 3: Masking and weeding
