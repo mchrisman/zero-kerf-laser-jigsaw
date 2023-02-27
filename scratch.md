@@ -1,8 +1,4 @@
 
-{% include analytics.html %}
-
-
-<p> A non-script 2... </p>
 
 #### What is the MAP sled solving (that can't be solved with a ruler and stationary jig)?
 
