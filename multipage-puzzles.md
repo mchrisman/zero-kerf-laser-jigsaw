@@ -51,6 +51,34 @@ Then filled in the "nooks and crannies" with the freely-movable "separable" piec
 
 And that's ready to go!
 
+## Printing
+
+When printing the photos, or sending them to the photo lab, make sure the file for every page has the same dimensions and resolution.  
+
+For the photo lab, don't choose the "color correction" option.  For inkjet printing, disable any automatic color correction in your printer/driver settings.  You don't want the algorithms applying slightly different color profiles to the two pages!
+
+When you have the prints, hold them next to each other and compare the color bars.  They should be identical.
+
+## Dealing with mismatched page scales
+
+Photo printers aren't perfect.  As you perform the measurement/alignment procedure for each page, you may find that the different pages don't quite match each other in dimensions.
+
+Mismatches of less than 0.2mm are very common and may be ignored; just process each page individually.   However, if there is a significant difference in dimensions between pages, such as a 2mm difference, it may affect how the puzzle pieces fit together.  (What's a "significant" difference?  Not sure. Best guess, around 1mm.)
+
+This problem is rare when all pages are printed together in one batch. If it does occur, the cut file can be adjusted to compensate:
+
+1. Prepare the kerf-adjusted cut files, one per page, as usual.
+2. Make note of the ratios in each dimension; for example:
+```
+Page 1 printed image size = (256.3mm, 195.2mm)
+Page 2 printed image size  = (256.9mm, 194.0mm)
+X-ratio = 256.9/256.3 = 1.0023
+Y-ratio =  194.0/195.2 = 0.9938
+```
+3. Edit the cut file for Page 2, and expand/shrink each puzzle piece by that ratio.  (**Important:** Multiply, don't add.)  This puts Page 2's pieces at the same scale as Page 1's pieces. (**Important:** alter each piece individually, relative to its midpoint.  Don't alter them as a group, because you don't want them to move.  In Affinity Designer, you can do this in one step using the "Transform Objects Individually" feature.)
+
+Repeat for pages 3, 4, etc., bringing them into the same scale as Page 1.
+
 [< BACK TO  TABLE OF CONTENTS](index.md)
 
 ## Q&A
