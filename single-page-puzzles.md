@@ -1,3 +1,6 @@
+
+{% include analytics.html %}
+
 [< BACK TO  TABLE OF CONTENTS](index.md)
 
 # Part 2: Creating the vector files for a single-page zero-kerf jigsaw puzzle
