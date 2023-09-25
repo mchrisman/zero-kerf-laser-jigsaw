@@ -56,10 +56,10 @@ Because in laser cutting, the kerf is always wider on top, narrower on the botto
 
 It compensates for these sources of error, _any_ of which can be greater than our target accuracy of 0.2mm:
 
-1. The **position of the printed image** on the page isn't precise.
-2. The **size of the printed image** on the page isn't precise.
-3. The **printed image may not be precisely parallel** to the page edges (which themselves may not be precisely at right angles).
-4. **Glowforge's coordinate system can shift** every time it recalibrates itself, and can also drift over time.
+1. The **position and angle of the printed image** on the page isn't precise.
+2. The **scale of the printed image** on the page isn't quite accurate.
+4. The **page edges might not be precisely rectangular**.
+5. **Glowforge's coordinate system can shift** every time it recalibrates itself, and can also drift over time.
 6. **Glowforge's coordinate system can be slightly out of scale**, relative to the "real-world" distances defined by your favorite precision ruler.  (For me the difference is about 0.1mm per 250mm.)  
 
 The sled is designed to directly align the printed image's boundaries with Glowforge's coordinate system, without the intermediate step of going through the (irrelevant) real-world coordinate system.  The sled is disposable and generally single-use because of (4).
