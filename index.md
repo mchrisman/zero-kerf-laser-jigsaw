@@ -30,6 +30,8 @@ This quick video shows the essence of the precision cutting technique, which can
 
 * [Micro zero-kerf puzzles](https://community.glowforge.com/t/christmas-russian-doll-jigsaw-puzzles-micro-puzzles/121318)
 * [Oversized zero-kerf puzzle](https://community.glowforge.com/t/picture-jigsaw-puzzles-with-kerf-eliminated-snugly-fitting/121229)
+* [Infinite Garden puzzle](https://community.glowforge.com/t/infinite-garden-jigsaw-puzzle/125011)
+* [Dome-shaped puzzle](https://community.glowforge.com/t/dome-shaped-jigsaw-puzzle/126710)
 
 ## Q & A
 
